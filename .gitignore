@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.ipynb_checkpoints/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Logs, outputs
+*.log
+wandb/
+*.ckpt
+
+# unrelated files
+.cito/
+cito/
+imgs/
+*.png
