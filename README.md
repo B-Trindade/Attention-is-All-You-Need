@@ -1,5 +1,7 @@
 **Attention Is All You Need: Reproduction and Explanation Repository**
 
+![Cover Slide](./presentation/imgs/cover/first%20slide%20attention.png)
+
 ![First Slide of Presentation](./presentation/Seminário___Attention_is_All_You_Need.pdf#page=1)
 
 ---
