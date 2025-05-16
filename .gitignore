@@ -20,5 +20,6 @@ wandb/
 # unrelated files
 .cito/
 cito/
-imgs/
-*.png
+# imgs/
+# *.png
+misc/
